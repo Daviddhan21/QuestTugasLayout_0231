@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quest Tugas Layout</string>
+    <string name="title_prodi">Teknologi Informasi</string>
+    <string name="title_univ">Universitas Muhammadiyah Yogyakarta</string>
+
+    <!-- Data Person 1 -->
+    <string name="name_bambang">Bambang Sumantri</string>
+    <string name="loc_bambang">Turi, Sleman</string>
+
+    <!-- Data Person 2 -->
+    <string name="name_gibran">Gibran Fathoni</string>
+    <string name="phone_gibran">085436874190</string>
+    <string name="loc_gibran">Kasihan, Bantul</string>
+
+    <!-- Data Person 3 -->
+    <string name="name_zhilal">Zhilal Fadhilah</string>
+    <string name="phone_zhilal">085436874190</string>
+    <string name="loc_zhilal">Depok, Sleman</string>
+
+    <!-- Data Person 4 -->
+    <string name="name_alfian">Ahmad Alfian</string>
+    <string name="phone_alfian">085436874190</string>
+    <string name="loc_alfian">Gamping, Sleman</string>
+
+    <string name="copyright">Copyright, 2026</string>
+</resources>
